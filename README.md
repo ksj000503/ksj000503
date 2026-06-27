@@ -32,7 +32,7 @@
 ### 🎯 EternalReturn — 이터널 리턴 모작 (UE5, 진행중)
 > 이터널 리턴(Eternal Return)을 언리얼 엔진으로 재현한 멀티플레이어 포트폴리오 프로젝트
 
-- **주요 기능:** 로비 → 인게임 전환 시스템, 챔피언 선택, PlayerState 리플리케이션, Seamless Travel
+- **주요 기능:** 스킬 컴포넌트, 스탯 컴포넌트, Seamless Travel
 - **Troubleshooting:** RepNotify 패턴을 적용해 클라이언트 간 상태 동기화 문제를 해결했고, Accessed None 에러를 단계별로 추적해 원인을 찾아 디버깅
 - [📂 Repository 바로가기](https://github.com/ksj000503/EternalReturn)
 
