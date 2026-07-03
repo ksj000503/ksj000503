@@ -32,9 +32,20 @@
 ### 🎯 EternalReturn — 이터널 리턴 모작 (UE5, 진행중)
 > 이터널 리턴(Eternal Return)을 언리얼 엔진으로 재현한 멀티플레이어 포트폴리오 프로젝트
 
+- **선정 이유:** 평소 즐겨 하던 이터널 리턴을 플레이하며 "이 게임은 어떤 구조로 만들어졌을까" 궁금해서 시작. 상용 게임 수준의 전투/스킬, 인벤토리, 시야 시스템, 몬스터 AI 등을 밑바닥부터 설계·구현하며 멀티플레이어 개발 파이프라인 전반을 경험하는 것이 목표.
+- **기술 스택:** Unreal Engine 5.7 · C++ / Blueprint · Listen Server · 자체 TCP 백엔드(Winsock2, MySQL 8.4)
+  
 - **주요 기능:** 스킬 컴포넌트, 스탯 컴포넌트, Seamless Travel
 - **Troubleshooting:** RepNotify 패턴을 적용해 클라이언트 간 상태 동기화 문제를 해결했고, Accessed None 에러를 단계별로 추적해 원인을 찾아 디버깅
 - **개발 방식:** C++, Blueprint
+
+
+<img width="392" height="220" alt="Skill" src="https://github.com/user-attachments/assets/ad6d1089-1302-44f8-858a-ec143ea3ec6c" />
+
+
+<img width="446" height="250" alt="Inven" src="https://github.com/user-attachments/assets/7c53e4a5-1bfb-4fa7-a264-2bef2b7a2e43" />
+
+
 - [📂 Repository 바로가기](https://github.com/ksj000503/EternalReturn)
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
