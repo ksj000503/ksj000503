@@ -40,7 +40,7 @@
 - **개발 방식:** C++, Blueprint
 
 
-<img width="392" height="220" alt="Skill" src="https://github.com/user-attachments/assets/ad6d1089-1302-44f8-858a-ec143ea3ec6c" />
+<img width="446" height="250" alt="Skill" src="https://github.com/user-attachments/assets/ad6d1089-1302-44f8-858a-ec143ea3ec6c" />
 
 
 <img width="446" height="250" alt="Inven" src="https://github.com/user-attachments/assets/7c53e4a5-1bfb-4fa7-a264-2bef2b7a2e43" />
