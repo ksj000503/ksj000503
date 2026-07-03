@@ -34,6 +34,7 @@
 
 - **주요 기능:** 스킬 컴포넌트, 스탯 컴포넌트, Seamless Travel
 - **Troubleshooting:** RepNotify 패턴을 적용해 클라이언트 간 상태 동기화 문제를 해결했고, Accessed None 에러를 단계별로 추적해 원인을 찾아 디버깅
+- **개발 방식:** C++, Blueprint
 - [📂 Repository 바로가기](https://github.com/ksj000503/EternalReturn)
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
