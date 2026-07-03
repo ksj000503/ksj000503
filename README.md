@@ -53,6 +53,14 @@
 
 - **주요 기능:** DataTable 기반의 공통 인터랙션 시스템(문/열쇠를 하나의 구조로 관리해 그래프 수정 없이 콘텐츠 확장 가능), 드래그 앤 드랍 인벤토리, 퀵 인벤토리 슬롯
 - **개발 방식:** Blueprint Only
+
+
+<img width="400" height="225" alt="2026-06-19 23-11-14" src="https://github.com/user-attachments/assets/8e102d9b-1389-48ff-a6fb-8cdede15f80e" />
+
+
+<img width="400" height="225" alt="2026-06-19 23-09-38" src="https://github.com/user-attachments/assets/cb44414a-0d4e-45d9-8eaa-5133b252d4c7" />
+
+
 - [📂 Repository 바로가기](https://github.com/ksj000503/Project_EscapeRoom)
 
 <br>
