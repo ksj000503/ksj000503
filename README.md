@@ -46,7 +46,7 @@
 <img width="446" height="250" alt="Inven" src="https://github.com/user-attachments/assets/7c53e4a5-1bfb-4fa7-a264-2bef2b7a2e43" />
 
 
-- [📂 Repository 바로가기](https://github.com/ksj000503/EternalReturn)
+- [📂 레포지토리 바로가기](https://github.com/ksj000503/Project_EscapeRoom)
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
 > Data-Driven 방식으로 구현한 방탈출 프레임워크
@@ -64,7 +64,7 @@
 <img width="400" height="225" alt="2026-06-19 23-09-38" src="https://github.com/user-attachments/assets/cb44414a-0d4e-45d9-8eaa-5133b252d4c7" />
 
 
-- [📂 Notion 바로가기](https://www.notion.so/EternalReturn-396a0fe77a6d80788e3ac0eba3c55286?source=copy_link)
+- 
 
 <br>
 
