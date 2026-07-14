@@ -64,7 +64,7 @@
 <img width="400" height="225" alt="2026-06-19 23-09-38" src="https://github.com/user-attachments/assets/cb44414a-0d4e-45d9-8eaa-5133b252d4c7" />
 
 
-- [📂 Repository 바로가기](https://github.com/ksj000503/Project_EscapeRoom)
+- [📂 Notion 바로가기](https://www.notion.so/EternalReturn-396a0fe77a6d80788e3ac0eba3c55286?source=copy_link)
 
 <br>
 
