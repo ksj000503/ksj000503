@@ -45,7 +45,7 @@
 
 <img width="446" height="250" alt="Inven" src="https://github.com/user-attachments/assets/7c53e4a5-1bfb-4fa7-a264-2bef2b7a2e43" />
 
-- [📂 노션 바로가기](https://www.notion.so/EternalReturn-396a0fe77a6d80788e3ac0eba3c55286?source=copy_link)
+- [📂 레포지토리 바로가기](https://github.com/ksj000503/EternalReturn)
 
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
