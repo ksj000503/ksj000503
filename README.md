@@ -1,4 +1,4 @@
-<div align="center">
+<img width="336" height="188" alt="gameplay" src="https://github.com/user-attachments/assets/73ce81d7-4570-47f1-9529-cf4244b53b80" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1128&height=220&section=header&text=Kim%20Seongjae&fontSize=45&fontColor=FFFFFF&desc=Game%20Client%20Developer&descAlignY=65&descSize=18" />
 </div>
 
@@ -61,6 +61,11 @@
 - **QA:** 자동 단위 테스트(Unity Test Framework), 테스트 케이스 55개로 버그 6건 검출·수정, 인게임 디버그 콘솔(F1)
 - **개발 방식:** 데이터 주도(ScriptableObject) + 이벤트(Observer) 기반, AI 페어 프로그래밍(Claude) 활용
 - 🔗 [GitHub](https://github.com/ksj000503/Unity-Project) · [상세(Notion)](https://app.notion.com/p/3d4a0fe77a6d81bcafb9ec83901137d0)
+
+<img width="336" height="188" alt="gameplay" src="https://github.com/user-attachments/assets/d98b0f2f-d348-4c50-8790-791d2878a86d" />
+
+<img width="372" height="210" alt="debug" src="https://github.com/user-attachments/assets/baddabba-5e08-476c-be82-376c71e1ba41" />
+
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
 > Data-Driven 방식으로 구현한 방탈출 프레임워크
