@@ -1,6 +1,3 @@
-<img width="336" height="188" alt="gameplay" src="https://github.com/user-attachments/assets/73ce81d7-4570-47f1-9529-cf4244b53b80" /><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1128&height=220&section=header&text=Kim%20Seongjae&fontSize=45&fontColor=FFFFFF&desc=Game%20Client%20Developer&descAlignY=65&descSize=18" />
-</div>
 
 ## 👋 안녕하세요, 김성재입니다
 
