@@ -16,6 +16,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 </div>
 
 ### 🛠️ Tools
@@ -23,6 +25,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
 <br>
@@ -48,6 +51,16 @@
 
 - [📂 레포지토리 바로가기](https://github.com/ksj000503/EternalReturn)
 
+
+### 🥔 POTATO SURVIVORS — 로그라이트 서바이버 (Unity, 완료)
+> Brotato 스타일 탑다운 서바이버 — 데이터 주도 설계 + 자동화 QA
+- **선정 이유:** Unity·C#로 시스템 설계 역량을 확장하고, 구현과 별개로 QA(자동 테스트·검증) 프로세스를 직접 세워보는 목표
+  ScriptableObject 데이터 주도로 오브젝트 추가 시 코드 수정 없이 콘텐츠 확장 가능한 구조 설계
+- **기술 스택:** C# — 전체 게임 로직 / ScriptableObject — 무기·아이템·설정 데이터화 / Resources 자동 로드 — 씬 수동 배선 제거 / New Input System / uGUI — 런타임 자가 생성 UI / Unity Test Framework — 단위 테스트
+- **주요 기능:** 6슬롯 자동 공격 무기(레벨 강화 + 근접/원거리 세트 효과), 오브젝트 풀 기반 몬스터·보스 웨이브, 등급·행운 상점, 이벤트 기반 HUD/상점 UI
+- **QA:** 자동 단위 테스트(Unity Test Framework), 테스트 케이스 55개로 버그 6건 검출·수정, 인게임 디버그 콘솔(F1)
+- **개발 방식:** 데이터 주도(ScriptableObject) + 이벤트(Observer) 기반, AI 페어 프로그래밍(Claude) 활용
+- 🔗 [GitHub](https://github.com/ksj000503/Unity-Project) · [상세(Notion)](https://app.notion.com/p/3d4a0fe77a6d81bcafb9ec83901137d0)
 
 ### 🚪 Project_EscapeRoom — 방탈출 시뮬레이션 (UE5, 완료)
 > Data-Driven 방식으로 구현한 방탈출 프레임워크
