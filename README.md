@@ -62,6 +62,7 @@
 - **기술 스택:** C# — 전체 게임 로직 / ScriptableObject — 무기·아이템·설정 데이터화 / Resources 자동 로드 — 씬 수동 배선 제거 / New Input System / uGUI — 런타임 자가 생성 UI / Unity Test Framework — 단위 테스트
 - **주요 기능:** 6슬롯 자동 공격 무기(레벨 강화 + 근접/원거리 세트 효과), 오브젝트 풀 기반 몬스터·보스 웨이브, 등급·행운 상점, 이벤트 기반 HUD/상점 UI
 - **QA:** 자동 단위 테스트(Unity Test Framework), 테스트 케이스 55개로 버그 6건 검출·수정, 인게임 디버그 콘솔(F1)
+- **확률 검증 자동화:** 상점 등급 추첨을 순수 함수로 분리해 행운별 10만 회 시뮬레이션으로 기획 확률 검증, 경계값 테스트로 가중치 0 등급이 뽑히는 버그 발견·수정
 - **개발 방식:** 데이터 주도(ScriptableObject) + 이벤트(Observer) 기반, AI 페어 프로그래밍(Claude) 활용
 - 🔗 [GitHub](https://github.com/ksj000503/Unity-Project) · [상세(Notion)](https://app.notion.com/p/3d4a0fe77a6d81bcafb9ec83901137d0)
 
@@ -95,7 +96,7 @@
 | 대상 | 내용 | 문서 |
 |---|---|---|
 | **이터널 리턴** 제작 시스템 (12.4 패치) | TC 44개 설계·실행, 테스트 리포트, 개선 제안 1건 | [TC](https://ksj000503.github.io/docs/er-crafting-tc.xlsx) · [분석서](https://ksj000503.github.io/docs/er-crafting-analysis.pdf) |
-| **POTATO SURVIVORS** (자작 게임) | TC 55개로 버그 6건 검출 → 원인 추적·수정·재검증, Unity Test Framework 단위 테스트 | [QA 검증 사례](https://ksj000503.github.io/docs/potato-qa.pdf) |
+| **POTATO SURVIVORS** (자작 게임) | TC 55개로 버그 6건 검출 → 원인 추적·수정·재검증, 상점 확률 10만 회 시뮬레이션 자동 검증 | [QA 검증 사례](https://ksj000503.github.io/docs/potato-qa.pdf) |
 
 🔗 전체 내용은 **[QA 포트폴리오 사이트](https://ksj000503.github.io)** 에서 볼 수 있습니다.
 
